@@ -1,2 +1,4 @@
 # Puissance Quatre
- Puissance Quatre codé en Python.
+ Puissance Quatre joué et affiché dans la console.
+
+ Langage utilisé: Python.
